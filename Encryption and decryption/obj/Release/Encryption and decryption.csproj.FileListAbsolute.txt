@@ -1,0 +1,11 @@
+D:\C++ && C#\Encryption and decryption\bin\Release\Encryption and decryption.exe.config
+D:\C++ && C#\Encryption and decryption\bin\Release\Encryption and decryption.exe
+D:\C++ && C#\Encryption and decryption\bin\Release\Encryption and decryption.pdb
+D:\C++ && C#\Encryption and decryption\obj\Release\Encryption and decryption.csproj.AssemblyReference.cache
+D:\C++ && C#\Encryption and decryption\obj\Release\Encryption and decryption.csproj.SuggestedBindingRedirects.cache
+D:\C++ && C#\Encryption and decryption\obj\Release\Encryption_and_decryption.Form1.resources
+D:\C++ && C#\Encryption and decryption\obj\Release\Encryption_and_decryption.Properties.Resources.resources
+D:\C++ && C#\Encryption and decryption\obj\Release\Encryption and decryption.csproj.GenerateResource.cache
+D:\C++ && C#\Encryption and decryption\obj\Release\Encryption and decryption.csproj.CoreCompileInputs.cache
+D:\C++ && C#\Encryption and decryption\obj\Release\Encryption and decryption.exe
+D:\C++ && C#\Encryption and decryption\obj\Release\Encryption and decryption.pdb
